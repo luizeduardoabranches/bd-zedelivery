@@ -5,3 +5,4 @@ Projeto da disciplina de banco de dados da faculdade Newton Paiva que tem como o
 
 
 <img src=".\bd-zedelivery.png" width="800px"></a>
+<img src=".\bd-ze-logico.png" width="800px"></a>
